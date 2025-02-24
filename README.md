@@ -2,7 +2,7 @@
 ---
 👋 ¡Hola! Soy **Miguel Dolic**
 ---
-## 💻 Requerimientos implementados challenge:
+## 💻 Requerimientos implementados:
 - ✅ Declaración de funciones.
 - ✅ Implementación de un array, para almacenar los nombres.
 - ✅ Evitar nombres iguales.
