@@ -1,9 +1,16 @@
 # 🚀Desarrollo del challenge amigo secreto
 ---
-👋 ¡Hola! Soy **Miguel Dolic** 
-- 💻 Me encanta programar y aprender nuevas tecnologías.
-- 📊 Interesado en **SQL y PostgreSQL** para análisis de datos.
-- 📫 Puedes contactarme en: **mdolicg@gmail.com**
+👋 ¡Hola! Soy **Miguel Dolic**
+---
+## 💻 Requerimientos implementados challenge:
+- ✅ Declaración de funciones.
+- ✅ Implementación de un array, para almacenar los nombres.
+- ✅ Evitar nombres iguales.
+- ✅ Evitar nombres de un solo carácter, al menos que tenga 2 carácteres
+- ✅ Evitar nombres con más de dos espacios y que este validado como un nuevo nombre.
+- ✅ Evitar números como nombres, y su concatenación con letras.
+- ✅ Boton de reinicio del juego
+- ✅ Desactivación del input y boton sortear una vez sorteado el juego.
 ---
 ### 🛠️ Tecnologías que use:
 | Lenguajes | tecnologías |
